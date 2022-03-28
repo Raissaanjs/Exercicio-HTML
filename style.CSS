@@ -1,0 +1,11 @@
+body{
+
+    background-color: dimgray;
+
+}
+
+.semana{
+    border: solid 3px black;
+    background-color: yellow;
+    color:black;
+}
